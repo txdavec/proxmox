@@ -1,4 +1,4 @@
-# CentOS Stream 8 Cloud Init Setup
+# CentOS Stream 8 Cloud-Init Setup
 
 ```
 
